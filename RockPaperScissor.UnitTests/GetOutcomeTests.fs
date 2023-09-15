@@ -1,4 +1,4 @@
-module Tests
+module GetOutcomeTests
 
 open RockPaperScissors.RockPaperScissors
 open Xunit
