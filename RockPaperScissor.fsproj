@@ -6,7 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="RockPaperScissors.fs" />
+        <Compile Include="RockPaperScissors.fs"/>
     </ItemGroup>
 
 </Project>
