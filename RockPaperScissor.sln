@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RockPaperScissor", "RockPaperScissor.fsproj", "{474FCA21-CD16-4558-8462-0E51D7ACA69A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RockPaperScissor.UnitTests", "RockPaperScissor.UnitTests\RockPaperScissor.UnitTests.fsproj", "{6BAD0790-7DA0-4171-91BC-B35B46AC3AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474FCA21-CD16-4558-8462-0E51D7ACA69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474FCA21-CD16-4558-8462-0E51D7ACA69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474FCA21-CD16-4558-8462-0E51D7ACA69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474FCA21-CD16-4558-8462-0E51D7ACA69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAD0790-7DA0-4171-91BC-B35B46AC3AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAD0790-7DA0-4171-91BC-B35B46AC3AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAD0790-7DA0-4171-91BC-B35B46AC3AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAD0790-7DA0-4171-91BC-B35B46AC3AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
