@@ -1,6 +1,6 @@
 ﻿module RockPaperScissor.UnitTests.ScoreBoardTests
 
-open RockPaperScissors.RockPaperScissors
+open Game.Game
 open Xunit
 
 [<Fact>]

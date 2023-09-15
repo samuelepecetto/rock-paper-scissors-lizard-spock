@@ -1,6 +1,6 @@
 module GetOutcomeTests
 
-open RockPaperScissors.RockPaperScissors
+open Game.Game
 open Xunit
 
 // --------- Win ---------

@@ -1,4 +1,4 @@
-﻿module RockPaperScissors =
+﻿module Game =
     type GameResult =
         | Win of int // Player 1 wins with a value indicating the number of wins
         | Loss of int // Player 2 wins with a value indicating the number of wins
